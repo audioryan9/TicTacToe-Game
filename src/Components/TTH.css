@@ -1,0 +1,14 @@
+.Cell{
+    border: 1px solid
+    bbb;
+    height: 50 px;
+    width: 50 px;
+}
+
+.Board{
+    display: flex;
+    flex-wrap: wrap;
+    width: 156px;
+}
+
+
